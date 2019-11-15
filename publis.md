@@ -1,5 +1,9 @@
-- [**Formation of hot Jupiters through secular chaos and dynamical tides**](http://adsabs.harvard.edu/abs/2019MNRAS.486.2265T)
+**Publication list**
 
+-[**A simplified model for the secular dynamics of eccentric discs and applications to planet-disc interactions**](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4353T/abstract)
+Teyssandier, J., Lai, D., 2019, MNRAS, 490, 4353
+
+- [**Formation of hot Jupiters through secular chaos and dynamical tides**](http://adsabs.harvard.edu/abs/2019MNRAS.486.2265T)
 Teyssandier, J., Lai, D., Vick, M., 2019, MNRAS, 486, 2265
 
 - **Eccentricity evolution during planet-disc interaction**
