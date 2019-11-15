@@ -1,18 +1,18 @@
 **Publication list**
 
--[**A simplified model for the secular dynamics of eccentric discs and applications to planet-disc interactions**](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4353T/abstract)
+- [**A simplified model for the secular dynamics of eccentric discs and applications to planet-disc interactions**](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4353T/abstract)
 Teyssandier, J., Lai, D., 2019, MNRAS, 490, 4353
 
 - [**Formation of hot Jupiters through secular chaos and dynamical tides**](http://adsabs.harvard.edu/abs/2019MNRAS.486.2265T)
 Teyssandier, J., Lai, D., Vick, M., 2019, MNRAS, 486, 2265
 
-- **Eccentricity evolution during planet-disc interaction**
+- [**Eccentricity evolution during planet-disc interaction**](http://adsabs.harvard.edu/abs/2018MNRAS.474.4460R)
 Ragusa, E., Rosotti, G., Teyssandier, J., Booth, R., Clarke, C., Lodato, G., 2018, MNRAS, 474, 4460
 
-- **Secular evolution of eccentricity in protoplanetary discs with gap-opening planets**
+- [**Secular evolution of eccentricity in protoplanetary discs with gap-opening planets**](http://adsabs.harvard.edu/abs/2017MNRAS.467.4577T)
 Teyssandier, J., Ogilvie, G., 2017, MNRAS, 467, 4577
 
-- **The origin of the eccentricity of the hot Jupiter in CI Tau**
+- [**The origin of the eccentricity of the hot Jupiter in CI Tau**](http://adsabs.harvard.edu/abs/2017MNRAS.464L.114R)
 Rosotti, G., Booth, R., Clarke, C., Teyssandier, J., Facchini, S.. Mustill, A., 2017, MNRAS, 464L, 114R
 
 - **Growth of eccentric modes in disc-planet interactions**
