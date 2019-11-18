@@ -1,4 +1,10 @@
-**Publication list**
+---
+layout: page
+title: About
+permalink: /publications/
+---
+
+## Publication List
 
 - [**A simplified model for the secular dynamics of eccentric discs and applications to planet-disc interactions**](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4353T/abstract)  
 Teyssandier, J., Lai, D., 2019, MNRAS, 490, 4353
