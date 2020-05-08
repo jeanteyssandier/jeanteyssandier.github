@@ -5,6 +5,9 @@ permalink: /publications/
 
 ## Publication List
 
+- [**Pulsed Disc Accretion Driven by Hot Jupiters**](https://arxiv.org/abs/1911.08492)  
+Teyssandier, J., Lai, D., ArXiV
+
 - [**A simplified model for the secular dynamics of eccentric discs and applications to planet-disc interactions**](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.4353T/abstract)  
 Teyssandier, J., Lai, D., 2019, MNRAS, 490, 4353
 
