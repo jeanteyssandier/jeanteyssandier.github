@@ -2,8 +2,8 @@
 
 I'm a Research Fellow at the [Namur Institute for Complex Systems (naXys)](http://www.naxys.be/), University of Namur, in Belgium. I'm a theoretical astrophysicist working in the field of exoplanets. To learn more about my background, check out my [CV](/cv.pdf).
 
- <img src="mode1_lin.png" alt="warped disc" width="600.6" height =
-        "403.2" align="right" />
+ <img src="mode1_lin.png" alt="warped disc" width="600" height =
+        "450" align="right" />
 
 **Research Interest:** 
 - Extrasolar planets
