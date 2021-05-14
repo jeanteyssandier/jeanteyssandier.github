@@ -1,3 +1,7 @@
+ <img src="mode1_lin.png" alt="warped disc" width="233.6" height =
+        "303.2" align =center hspace=30/>
+
+
 ## About me:
 
 I'm a Research Fellow at the [Namur Institute for Complex Systems (naXys)](http://www.naxys.be/), University of Namur, in Belgium. I'm a theoretical astrophysicist working in the field of exoplanets. To learn more about my background, check out my [CV](/cv.pdf).
