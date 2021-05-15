@@ -3,6 +3,7 @@ title: Homepage of Jean Teyssandier
 description: Welcome to my research website!
 
 header:
+  title: Homepage of Jean Teyssandier
   pages:
     - name: Home
       slug: /
