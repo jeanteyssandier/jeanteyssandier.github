@@ -1,9 +1,6 @@
 theme: jekyll-theme-midnight
 title: Homepage of Jean Teyssandier
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my research website!
-baseurl: "" # the subpath of the site
-url: "https://jeanteyssandier.github.io" # the base hostname & protocol for the site
+description: Welcome to my research website!
 og_image: mode1_lin_lr.png
 google_analytics: "UA-121636368-3"
 
