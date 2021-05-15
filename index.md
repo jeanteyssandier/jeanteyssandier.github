@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: mode1_lin_lr.png
+  src: mode1_lin_vlr.png
   alt: website picture
 ---
 
