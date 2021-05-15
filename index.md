@@ -1,4 +1,5 @@
 ---
+title: Webpage
 layout: home
 profile_picture:
   src: mode1_lin_lr.png
