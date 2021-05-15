@@ -11,7 +11,7 @@ I'm a Research Fellow at the [Namur Institute for Complex Systems (naXys)](http:
 - Extrasolar planets
 - Planet-disc interactions
 - Celestial mechanics
-- Proto-planetary discs
+- Protoplanetary discs
 
 
 **Publications:**
