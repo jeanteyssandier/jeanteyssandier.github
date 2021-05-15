@@ -8,7 +8,6 @@ og_image: mode1_lin_lr.png
 google_analytics: "UA-121636368-3"
 
 header:
-  title: Homepage of Jean Teyssandier
   pages:
     - name: Home
       slug: /
