@@ -5,15 +5,14 @@ I'm a Research Fellow at the [Namur Institute for Complex Systems (naXys)](http:
 
  <img src="mode1_lin_lr.png" alt="warped disc" width="300" height = "220" align="right" />
 
+
 **Research interests:**
 
 - Extrasolar planets
- 
 - Planet-disc interactions
- 
 - Celestial mechanics
-
 - Proto-planetary discs
+
 
 **Publications:**
 
