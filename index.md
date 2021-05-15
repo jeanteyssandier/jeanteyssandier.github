@@ -1,7 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: mode1_lin.png
+   <img src="mode1_lin.png" alt="warped disc" width="600" height =
+        "450" align="right" />
   alt: warped disc
 ---
 
