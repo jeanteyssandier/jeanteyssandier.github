@@ -1,3 +1,6 @@
 remote_theme: eliottvincent/bay
 title: Homepage of Jean Teyssandier
 description: Welcome to my research website!
+header:
+  pages:
+    - name: Publications
