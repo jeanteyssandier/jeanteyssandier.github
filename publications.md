@@ -5,6 +5,11 @@ permalink: /publications/
 
 ## Publication List
 
+- [**TRAPPIST-1: Dynamical analysis of the transit-timing variations and origin of the resonant chain**](https://arxiv.org/abs/2110.03340)  
+Teyssandier, J., Libert, A-S., Agol, E., 2021, Submitted to A&A
+
+- [**Planetary migration in precessing discs for S-type wide binaries**]https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.5005R/abstract)  
+Roisin, A., Teyssandier, J., Libert, A-S., 2021, MNRAS, 506, 5005
 
 - [**Transit timing variation signature of planet migration: the case of K2-24**](https://ui.adsabs.harvard.edu/abs/2020A%26A...643A..11T/abstract)  
 Teyssandier, J., Libert, A-S., 2020, A&A, 643, 11
